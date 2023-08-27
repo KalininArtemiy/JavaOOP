@@ -15,7 +15,7 @@ class Cat {
     public Cat(String name, int age, owner ownerName){
         this.name = name;
         this.age = age;
-        this.ownerName = ownerName;
+        this.ownerName = ownerName;//можно базове имя задать null? 
     }
     // Getter for getting cat's name
     public String getName() {

@@ -5,6 +5,7 @@ public class App {
         newCatOne.setAge(2);//изменяем коту возраст
         newCatOne.setName("Tim Temich");//изменяем коту имя
         newCatOne.greeting(newCatOne.getName(), newCatOne.getAge());//проверяем,работает
+        
         owner newOwner = new owner("Vasa");//создаеи коту владельца
         Cat newCatTwo = new Cat("Barsik", 2);//создаем кота
         newCatTwo.setOwnerName(newOwner);//передаем владельца коту
