@@ -46,6 +46,9 @@ class Cat {
     public void setOwnerName(owner ownerName) {
         this.ownerName = ownerName;
     }
+    public owner getOwnerName() {
+        return ownerName;
+    }
 }
 
 //так и не понял как из класса Cat взять владельтца, не понял где это делать и нужен ли для этого отдельный конструктор, если нужен, то как задать имя владельца
