@@ -15,14 +15,17 @@ public class App {
         
         
         //можно ли вызвать уже существующий greeting с добавлением владельца? 
-
-
+        
+        
+        //не работает Overide, хотел переопределить приветсвие, однако выдает ошибку (void is an invalid type for the variable greetingJava(536870964))
+        
+        
+        // @Override
+        // public void greeting(String name, int age, owner newOwner){
+        //     super.greeting();
+        //     System.out.println("My owner: " + newOwner);
+        // }
 
     }
 }
-//не работает Overide, хотел переопределить приветсвие, однако выдает ошибку
-// @Override
-// public void greeting(String name, int age){
-//         super.greeting();
-//         System.out.println("My owner: " + newOwner);
-// }
+    
