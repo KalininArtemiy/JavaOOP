@@ -1,3 +1,4 @@
+package seminar2Task2;
 public interface Constants {
     // Интерфейс с объявлением констант
     int ARRAY_SIZE = 10;

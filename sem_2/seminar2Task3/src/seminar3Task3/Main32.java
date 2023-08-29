@@ -1,3 +1,4 @@
+package seminar3Task3;
 public class Main32 {
     public static void main(String[] args) {
         Dog23 dog = new Dog23();

@@ -1,3 +1,4 @@
+package seminar2Task2;
 /**
  * TSeminarTask2Class
  */
