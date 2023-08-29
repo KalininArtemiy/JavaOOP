@@ -1,3 +1,4 @@
+package seminar2;
 class Kitty implements SoundMaker {
     private String name;
 

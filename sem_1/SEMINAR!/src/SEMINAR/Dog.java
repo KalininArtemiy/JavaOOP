@@ -1,3 +1,4 @@
+package SEMINAR;
 public class Dog extends Pet{
     private String breed;
     // Integer MAX_VALUE = 10;

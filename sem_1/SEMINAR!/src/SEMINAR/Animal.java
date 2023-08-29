@@ -1,3 +1,5 @@
+package SEMINAR;
+
 class Animal {
     String name;
     int age;

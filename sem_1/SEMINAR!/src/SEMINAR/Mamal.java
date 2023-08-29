@@ -1,3 +1,4 @@
+package SEMINAR;
 public class Mamal extends Animal{
     String furColor;
     

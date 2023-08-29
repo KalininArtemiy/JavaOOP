@@ -1,3 +1,5 @@
+package HW1.src.homework1;
+
 public class App {
     public static void main(String[] args) throws Exception {
         Cat newCatOne = new Cat("Timon", 1); // создаем кота с именем и возрастом

@@ -1,4 +1,6 @@
+package HW1.src.homework1;
 // crearing class cat
+
 class Cat {
     private String name; //private name
     private int age; //private age

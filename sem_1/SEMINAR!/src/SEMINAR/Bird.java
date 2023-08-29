@@ -1,5 +1,7 @@
+package SEMINAR;
 /**
- * Bird
+
+* Bird
  */
 public class Bird extends Animal {
     boolean canFly;

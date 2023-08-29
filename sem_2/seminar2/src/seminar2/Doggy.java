@@ -1,3 +1,4 @@
+package seminar2;
 class Doggy implements SoundMaker {
     private String name;
 

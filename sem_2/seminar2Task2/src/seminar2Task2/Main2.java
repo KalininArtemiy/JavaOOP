@@ -1,6 +1,4 @@
-
-
-
+package seminar2Task2;
 public class Main2 {
     public static void main(String[] args) {
         // Использование объявленных констант
@@ -12,7 +10,6 @@ public class Main2 {
         for (int i = 0; i < Constants.ARRAY_SIZE; i++) {
             numbers[i] = i * Constants.MAX_VALUE;
         }
-
         // Вывод содержимого массива
         System.out.println("Array contents:");
         for (int num : numbers) {

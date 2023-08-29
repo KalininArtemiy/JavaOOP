@@ -1,3 +1,4 @@
+package HW1.src.homework1;
 //Class owner creating
 public class owner {
     private String name;

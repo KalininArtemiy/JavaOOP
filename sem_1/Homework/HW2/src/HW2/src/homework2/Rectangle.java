@@ -1,3 +1,4 @@
+package HW2.src.homework2;
 public class Rectangle {
     private Integer width;
     private Integer height;

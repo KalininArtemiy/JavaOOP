@@ -1,3 +1,5 @@
+package HW2.src.homework2;
+
 public class App {
     public static void main(String[] args) throws Exception {
         Rectangle newRectangle1 = new Rectangle(10); //cоздаем 3 разных прямоугольника для проверки 
