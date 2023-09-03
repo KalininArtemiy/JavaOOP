@@ -83,7 +83,8 @@ public class Market implements QueueBehaviour, MarketBehaviour{
         // {}  
         String qeueReady = market.removePerson();
         Order orderDone = market.takeOrder();
-        System.out.println("Заказ " + qeueReady + " готов. Вы заказывали ");
+        
+        System.out.println("Заказ " + qeueReady + " готов.");
         orderDone.showProducts();
         System.out.println("-------------------------------");
         // AnyKey.close();
